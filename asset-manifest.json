@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/super-react-app/static/css/main.8636b630.css",
+    "main.js": "/super-react-app/static/js/main.bfe49ae1.js",
+    "static/js/787.336ec820.chunk.js": "/super-react-app/static/js/787.336ec820.chunk.js",
+    "static/media/signup-bg.png": "/super-react-app/static/media/signup-bg.24138d544499a2cfee30.png",
+    "static/media/profile-pic.png": "/super-react-app/static/media/profile-pic.5e1db7cad947e7f3c5a3.png",
+    "static/media/drama.png": "/super-react-app/static/media/drama.d94917e7d68925eb7f94.png",
+    "static/media/romance.png": "/super-react-app/static/media/romance.78f522078cfc3f8ab0e3.png",
+    "static/media/horror.png": "/super-react-app/static/media/horror.19b858bd63d9aca5ac0d.png",
+    "static/media/fantasy.png": "/super-react-app/static/media/fantasy.856c87fb8aecc1fb76ed.png",
+    "static/media/thriller.png": "/super-react-app/static/media/thriller.d53e0e286e1b9e91cc98.png",
+    "static/media/fiction.png": "/super-react-app/static/media/fiction.81913e6584ec94fd7fb2.png",
+    "static/media/western.png": "/super-react-app/static/media/western.3a7b1bb980f9b0b1a22a.png",
+    "static/media/music.png": "/super-react-app/static/media/music.31524604f98bfd0d994e.png",
+    "static/media/action.png": "/super-react-app/static/media/action.3c32f455505bb0185c08.png",
+    "static/media/ic-profile-round.png": "/super-react-app/static/media/ic-profile-round.0f93ce36907c6c240d57.png",
+    "static/media/ic-wind.svg": "/super-react-app/static/media/ic-wind.c6369cc3a0ba29c25ce332548c013739.svg",
+    "static/media/ic-pressure.svg": "/super-react-app/static/media/ic-pressure.115cd37705b8bff5df41d888df45dd9e.svg",
+    "static/media/ic-heavy-rain.svg": "/super-react-app/static/media/ic-heavy-rain.8b85fff09778f2b1e3e6d8b7c62d868b.svg",
+    "static/media/ic-humidiy.svg": "/super-react-app/static/media/ic-humidiy.17234c1656557741e8e61bbae36d53b1.svg",
+    "index.html": "/super-react-app/index.html",
+    "static/media/ic_arrow_up.svg": "/super-react-app/static/media/ic_arrow_up.1c8138a9e0a16f1b11f27d0633b08dce.svg",
+    "static/media/ic_arrow_down.svg": "/super-react-app/static/media/ic_arrow_down.7be93adbd943aa5a1e47a0e06a41fd41.svg",
+    "main.8636b630.css.map": "/super-react-app/static/css/main.8636b630.css.map",
+    "main.bfe49ae1.js.map": "/super-react-app/static/js/main.bfe49ae1.js.map",
+    "787.336ec820.chunk.js.map": "/super-react-app/static/js/787.336ec820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8636b630.css",
+    "static/js/main.bfe49ae1.js"
+  ]
+}
